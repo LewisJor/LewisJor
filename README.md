@@ -1,6 +1,6 @@
-## Jordan Lewis | Deeply Curious
+## Jordan Lewis
 
-I'm a senior software engineer focused on distributed systems, ML platforms, and infrastructure that keeps working when conditions get messy.
+I'm a software engineer focused on distributed systems, ML platforms, and infrastructure that keeps working when conditions get messy.
 
 Most of my work sits at the intersection of service architecture, model serving, event-driven systems, and production reliability. I like building the less-flashy pieces that make complex systems feel boring in the best way: clear APIs, observable pipelines, resilient deployments, and automation that turns painful workflows into repeatable ones.
 
